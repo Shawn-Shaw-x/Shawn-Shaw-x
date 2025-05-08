@@ -58,5 +58,5 @@
 
 ## 🙌 Let’s Connect
 
-📮 email：cola_ocean@foxmail.com
-👉🏻 wechat：cola_ocean
+- 📮 email：cola_ocean@foxmail.com
+- 👉🏻 wechat：cola_ocean
