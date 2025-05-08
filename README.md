@@ -46,15 +46,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shawn-Shaw-x&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Shaw-x&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Shaw-x&layout=compact&hide=html,css,dockerfile,shell,makefile,python,javascript" />
 </p>
 
 ## 📌 Now Building
 
-•	🧱 Modular backend infrastructure for exchanges
-•	🔐 Signature services with strong security isolation
-•	🔄 RPC systems with multi-chain extensibility
-•	☕ Microservices and background job runners in Spring Boot
+- 🧱 Modular backend infrastructure for exchanges
+- 🔐 Signature services with strong security isolation
+- 🔄 RPC systems with multi-chain extensibility
+- ☕ Microservices and background job runners in Spring Boot
 
 ## 🙌 Let’s Connect
 
