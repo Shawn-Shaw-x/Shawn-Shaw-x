@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/Shawn-Shaw-x" target="_blank">🌐 GitHub</a> •
-  <a href="mailto:youremail@example.com">📬 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">💼 LinkedIn</a>
-</p>
+  <a href="mailto:cola_ocean@foxmail.com">📬 Email</a> •
+<!--   <a href="https://linkedin.com/in/yourprofile" target="_blank">💼 LinkedIn</a>
+</p> -->
 
 ---
 
@@ -37,6 +37,7 @@
 🟡 Go        🟣 Solidity       🔵 gRPC
 🟢 PostgreSQL 🟥 Protobuf       ⚙️ Foundry
 ☕ Java       📦 Spring Boot    🧪 JUnit/Testcontainers
+```
 
 ## 📊 GitHub Stats
 <p align="center">
