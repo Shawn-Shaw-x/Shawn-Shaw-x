@@ -33,20 +33,19 @@
 
 ## ⚙️ Tech Stack
 
-```bash
-🟡 Go        🟣 Solidity       🔵 gRPC
-🟢 PostgreSQL 🟥 Protobuf       ⚙️ Foundry
-☕ Java       📦 Spring Boot    🧪 JUnit/Testcontainers
-```
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![gRPC](https://img.shields.io/badge/-gRPC-0091E6?style=flat&logo=grpc)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+![Protobuf](https://img.shields.io/badge/-Protobuf-FFCA28?style=flat&logo=protocol-buffers)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shawn-Shaw-x&show_icons=true&theme=default" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Shawn-Shaw-x" />
-</p>
-
-<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Shaw-x&layout=compact" />
 </p>
 
