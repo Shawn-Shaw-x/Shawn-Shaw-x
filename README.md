@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shawn-Shaw-x&show_icons=true&theme=default&v=1" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Shaw-x&layout=compact&hide=html,css,dockerfile,shell,makefile,python,javascript" />
+  <img width="48% style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Shawn-Shaw-x&show_icons=true&theme=default&v=1" />
+  <img width="48% style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Shaw-x&layout=compact&hide=html,css,dockerfile,shell,makefile,python,javascript" />
 </p>
 
 ## 📌 Now Building
