@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shawn Shaw</h1>
 
 <p align="center">
-  Backend Developer | Blockchain Engineer | Exchange Wallet Builder | SaaS allet Builder
+  Backend Developer | Blockchain Engineer | Exchange Wallet Builder | SaaS Wallet Builder
 </p>
 
 <p align="center">
