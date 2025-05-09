@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Shawn Shaw</h1>
 
 <p align="center">
-  Backend Developer | Blockchain Engineer | SaaS Wallet Builder
+  Backend Developer | Blockchain Engineer | Exchange Wallet Builder | SaaS allet Builder
 </p>
 
 <p align="center">
   <a href="https://github.com/Shawn-Shaw-x" target="_blank">🌐 GitHub</a> •
   <a href="mailto:cola_ocean@foxmail.com">📬 Email</a> •
-<!--   <a href="https://linkedin.com/in/yourprofile" target="_blank">💼 LinkedIn</a>
-</p> -->
+  <a href="https://learnblockchain.cn/shawn_shaw" target="_blank">💼 blog</a>
+</p>
 
 ---
 
