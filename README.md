@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shawn-Shaw-x&show_icons=true&theme=default" width="48%" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shawn-Shaw-x&show_icons=true&theme=default&v=1" width="48%" style="height: 200px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawn-Shaw-x&layout=compact&hide=html,css,dockerfile,shell,makefile,python,javascript&langs_count=4" width="48%" style="height: 200px;" />
 </p>
 
